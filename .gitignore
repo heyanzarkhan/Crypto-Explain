@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Manim build output (renders are reproducible from source — final.mp4 lives at repo root)
+media/
+
+# macOS
+.DS_Store
